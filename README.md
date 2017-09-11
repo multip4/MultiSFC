@@ -1,3 +1,0 @@
-# SFC
-
-SFC readme
