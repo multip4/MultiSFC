@@ -1,5 +1,5 @@
 # MultiSFC
-MultiSFC is a projcet that aims at providing low latency and high availability for multi-service networks.
+MultiSFC is a project that aims at providing low latency and high availability for multi-service networks.
 
 This project includes the following technologies:
 - Service Function Chaining (SFC) based multi-service network architecture
