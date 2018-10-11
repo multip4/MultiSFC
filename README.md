@@ -3,8 +3,8 @@ MultiSFC is a project that aims at providing low latency and high availability f
 
 This project includes the following technologies:
 - Service Function Chaining (SFC) based multi-service network architecture
-- Low latency transport mechanisms (e.g. flow scheduling and load balancing) for multi-service networks
-- High availability mechanisms (e.g. loss-aware packet forwarding and rapid loss recovery) for multi-service networks
+- Low latency transport mechanisms for multi-service networks
+- High availability mechanisms for multi-service networks
 
 # Authors
 - Gyuyeong Kim (gykim08@korea.ac.kr)
